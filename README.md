@@ -6,7 +6,7 @@
 <a href="https://twitter.com/iarchitsharma">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:archit8679@gmail.com">
+<a href="mailto:@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCfv8c">
