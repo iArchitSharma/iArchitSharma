@@ -17,7 +17,7 @@
 <br />
 
 ### About Me 👨‍
-🎓 First-year CS student, future Software Engineer. My passion for Computer Science brought me here. </br>
+🎓 First-year CS student. My passion for Computer Science brought me here. </br>
 
 
 ### My Experiences 🙌
