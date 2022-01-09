@@ -1,16 +1,16 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Archit!](https://iarchitsharma.github.io) 
 
 <a href="https://www.linkedin.com/in/iarchitsharma/">
-    <img align="left" alt="Archit Sharma | Linkedin" width="24px" src="https://github.com/iarchitsharma/iarchitsharma/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Archit Sharma | Linkedin" width="24px" src="https://iarchitsharma.github.io/iArchitSharma/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
 <a href="https://twitter.com/iarchitsharma">
-    <img align="left" alt="Archit Sharma | Twitter" width="26px" src="https://github.com/iarchitsharma/iarchitsharma/blob/master/Assets/Twitter.svg" />
+    <img align="left" alt="Archit Sharma | Twitter" width="26px" src="https://iarchitsharma.github.io/iArchitSharma/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
 <a href="mailto:@gmail.com">
-    <img align="left" alt="Archit Sharma | Gmail" width="26px" src="https://github.com/iarchitsharma/iarchitsharma/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Archit Sharma | Gmail" width="26px" src="https://iarchitsharma.github.io/iArchitSharma/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 <a href="https://leetcode.com/iArchitSharma/">
-    <img align="left" alt="Archit Sharma | Leetcode" width="24px" src="https://github.com/iarchitsharma/iarchitsharma/blob/master/Assets/leetcode.png" />
+    <img align="left" alt="Archit Sharma | Leetcode" width="24px" src="https://iarchitsharma.github.io/iArchitSharma/Assets/leetcode.png" />
   </a>
 
 <br />
