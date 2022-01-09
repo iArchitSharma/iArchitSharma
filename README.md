@@ -20,9 +20,8 @@
 🎓 First-year CS student. My passion for Computer Science brought me here. </br>
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> I'm currently learning **Web Development** 🙋‍♂️and improving my **Data Structure** and **Algorithm** skills👨‍💻.
 
-
 ### My Experiences 🙌
-
+[![Archit's GitHub stats](https://github-readme-stats.vercel.app/api?username=iArchitSharma)]
 
 ### Honors & Awards 🏅
 
