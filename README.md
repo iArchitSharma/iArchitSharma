@@ -21,8 +21,8 @@
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> I'm currently learning **Web Development** 🙋‍♂️and improving my **Data Structure** and **Algorithm** skills👨‍💻.
 
 ### My Experiences 🙌
-[![Archit's GitHub stats](https://github-readme-stats.vercel.app/api?username=iArchitSharma)]
-
+![Archit's GitHub stats](https://github-readme-stats.vercel.app/api?username=iArchitSharma&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iArchitSharma&layout=compact&theme=tokyonight)
 ### Honors & Awards 🏅
 
 
