@@ -17,7 +17,8 @@
 
 ### About Me 👨‍
 🎓 First-year CS student. My passion for Computer Science brought me here. </br>
--  I'm currently learning **Web Development Libraries** 🙋‍♂️and improving my **Data Structure** and **Algorithm** skills👨‍💻.
+-  I'm currently learning **Backend Web Development** 🙋‍♂️and improving my **Data Structure** and **Algorithm** skills👨‍💻.
+-  I'm familiar with Docker, NodeJS, mySQL, Git, Linux💻.
 
 ### My Experiences 🙌
 ![Archit's GitHub stats](https://github-readme-stats.vercel.app/api?username=iArchitSharma&count_private=true&show_icons=true&theme=tokyonight)
