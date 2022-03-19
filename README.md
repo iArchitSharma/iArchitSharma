@@ -25,7 +25,7 @@
 ![Archit's GitHub stats](https://github-readme-stats.vercel.app/api?username=iArchitSharma&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iArchitSharma&layout=compact&theme=tokyonight)
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :hammer_and_wrench:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/>&nbsp;
