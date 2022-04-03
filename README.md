@@ -6,7 +6,7 @@
 <a href="https://twitter.com/iarchitsharma">
     <img align="left" alt="Archit Sharma | Twitter" width="26px" src="https://iarchitsharma.github.io/iArchitSharma/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
-<a href="mailto:@gmail.com">
+<a href="mailto:archits@duck.com">
     <img align="left" alt="Archit Sharma | Gmail" width="26px" src="https://iarchitsharma.github.io/iArchitSharma/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 <a href="https://leetcode.com/iArchitSharma/">
