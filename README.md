@@ -17,8 +17,8 @@
 
 ### About Me 👨‍
 💻 **Aspiring Software Developer** and **first-year computer science student**🎓. My passion for Computer Science brought me here. I am eager to learn new technologies and apply them to either develop something helpful or improve existing applications.</br>
--  I'm currently learning **Backend Web Development** 🙋‍♂️and improving my **Data Structure** and **Algorithm** skills👨‍💻.
--  I'm familiar with Docker, NodeJS, mySQL, Git, Linux⚙️.
+-  🔭 I'm currently learning **Backend Web Development** 🙋‍♂️and improving my **Data Structure** and **Algorithm** skills👨‍💻.
+-  🌱 I'm familiar with Docker, NodeJS, mySQL, Git, Linux⚙️.
 -  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iArchitSharma/)
 
 ### My Experiences 🙌
