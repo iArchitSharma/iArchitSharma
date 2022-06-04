@@ -1,5 +1,5 @@
 <!--More improvments needed-->
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Archit!](https://iarchitsharma.github.io/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Archit!](https://iarchitsharma.github.io/) 
 
 <a href="https://www.linkedin.com/in/iarchitsharma/">
     <img align="left" alt="Archit Sharma | Linkedin" width="24px" src="https://iarchitsharma.github.io/iArchitSharma/Assets/Linkedin.svg" />
