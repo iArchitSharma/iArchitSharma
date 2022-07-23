@@ -40,10 +40,15 @@
 <br>
 
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32'> </h2>
+## 📝 LATEST ARTICLES
 
-![Archit's GitHub stats](https://github-readme-stats.vercel.app/api?username=iArchitSharma&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iArchitSharma&layout=compact&theme=tokyonight)
+<!-- BLOG-POST-LIST:START -->
+- [The History of JavaScript](https://dev.to/iarchitsharma/the-history-of-javascript-5e98)
+- [5 websites to take your front-end skills to the next level](https://dev.to/iarchitsharma/5-websites-to-take-your-front-end-skills-to-the-next-level-17gh)
+- [How to install VS Code in an Android Phone?](https://dev.to/iarchitsharma/how-to-install-vs-code-in-an-android-phone-cbh)
+- [Top 5 Must-have VS Code extensions](https://dev.to/iarchitsharma/top-5-must-have-vs-code-extensions-229k)
+- [Front End web development Full Roadmap](https://dev.to/iarchitsharma/front-end-web-development-full-roadmap-4lof)
+<!-- BLOG-POST-LIST:END -->
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iarchitsharma.iarchitsharma)
