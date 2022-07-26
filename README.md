@@ -43,11 +43,11 @@
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
+- [Why do computers suck at math?](https://dev.to/iarchitsharma/why-do-computers-suck-at-math-28gp)
 - [How JavaScript Works](https://dev.to/iarchitsharma/how-javascript-works-5ec9)
 - [The History of JavaScript](https://dev.to/iarchitsharma/the-history-of-javascript-5e98)
 - [5 websites to take your front-end skills to the next level](https://dev.to/iarchitsharma/5-websites-to-take-your-front-end-skills-to-the-next-level-17gh)
 - [How to install VS Code in an Android Phone?](https://dev.to/iarchitsharma/how-to-install-vs-code-in-an-android-phone-cbh)
-- [Top 5 Must-have VS Code extensions](https://dev.to/iarchitsharma/top-5-must-have-vs-code-extensions-229k)
 <!-- BLOG-POST-LIST:END -->
 
 
