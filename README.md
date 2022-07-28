@@ -43,11 +43,11 @@
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 3 Ways to Center a DIV with CSS 🚀](https://dev.to/iarchitsharma/top-3-ways-to-center-a-div-with-css-2ch3)
 - [Top 4 VS Code Editing Tricks](https://dev.to/iarchitsharma/top-4-vs-code-editing-tricks-2hnb)
 - [Why do computers suck at math?](https://dev.to/iarchitsharma/why-do-computers-suck-at-math-28gp)
 - [How JavaScript Works](https://dev.to/iarchitsharma/how-javascript-works-5ec9)
 - [The History of JavaScript](https://dev.to/iarchitsharma/the-history-of-javascript-5e98)
-- [5 websites to take your front-end skills to the next level](https://dev.to/iarchitsharma/5-websites-to-take-your-front-end-skills-to-the-next-level-17gh)
 <!-- BLOG-POST-LIST:END -->
 
 
