@@ -43,11 +43,11 @@
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript vs JavaScript🤔](https://dev.to/iarchitsharma/typescript-vs-javascript-3i8d)
 - [Top 5 CSS Animation Libraries🚀](https://dev.to/iarchitsharma/top-5-css-animation-libraries-4i4g)
 - [The History of Kubernetes⏱️](https://dev.to/iarchitsharma/the-history-of-kubernetes-4kkd)
 - [You need to learn Kubernetes RIGHT NOW!! 🚀](https://dev.to/iarchitsharma/you-need-to-learn-kubernetes-right-now-583d)
 - [Top 3 Ways to Center a DIV with CSS 🚀](https://dev.to/iarchitsharma/top-3-ways-to-center-a-div-with-css-2ch3)
-- [Top 4 VS Code Editing Tricks](https://dev.to/iarchitsharma/top-4-vs-code-editing-tricks-2hnb)
 <!-- BLOG-POST-LIST:END -->
 
 
