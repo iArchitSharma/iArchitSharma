@@ -43,11 +43,11 @@
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Highest Paid Languages in 2022](https://dev.to/iarchitsharma/top-10-highest-paid-languages-in-2022-353m)
 - [Complete guide to kickstart your Open Source journey🚀](https://dev.to/iarchitsharma/complete-guide-to-kickstart-your-open-source-journey-2dm5)
 - [TypeScript vs JavaScript🤔](https://dev.to/iarchitsharma/typescript-vs-javascript-3i8d)
 - [Top 5 CSS Animation Libraries🚀](https://dev.to/iarchitsharma/top-5-css-animation-libraries-4i4g)
 - [The History of Kubernetes⏱️](https://dev.to/iarchitsharma/the-history-of-kubernetes-4kkd)
-- [You need to learn Kubernetes RIGHT NOW!! 🚀](https://dev.to/iarchitsharma/you-need-to-learn-kubernetes-right-now-583d)
 <!-- BLOG-POST-LIST:END -->
 
 
