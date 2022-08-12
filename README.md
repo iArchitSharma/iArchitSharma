@@ -47,7 +47,7 @@
 - [Complete guide to kickstart your Open Source journey🚀](https://dev.to/iarchitsharma/complete-guide-to-kickstart-your-open-source-journey-2dm5)
 - [TypeScript vs JavaScript🤔](https://dev.to/iarchitsharma/typescript-vs-javascript-3i8d)
 - [Top 5 CSS Animation Libraries🚀](https://dev.to/iarchitsharma/top-5-css-animation-libraries-4i4g)
-- [The History of Kubernetes⏱️](https://dev.to/iarchitsharma/the-history-of-kubernetes-4kkd)
+- [Kubernetes Components Simplified for Beginners🚀](https://dev.to/iarchitsharma/kubernetes-components-simplified-for-beginners-3ngh)
 <!-- BLOG-POST-LIST:END -->
 
 
