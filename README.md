@@ -43,7 +43,7 @@
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Components Simplified for Beginners🚀](https://dev.to/iarchitsharma/kubernetes-components-simplified-for-beginners-3ngh)
+- [Kubernetes Components Simplified for Beginners🚀](https://dev.to/iarchitsharma/kubernetes-components-simplified-for-beginners-19op)
 - [Top 10 Highest Paid Languages in 2022](https://dev.to/iarchitsharma/top-10-highest-paid-languages-in-2022-353m)
 - [Complete guide to kickstart your Open Source journey🚀](https://dev.to/iarchitsharma/complete-guide-to-kickstart-your-open-source-journey-2dm5)
 - [TypeScript vs JavaScript🤔](https://dev.to/iarchitsharma/typescript-vs-javascript-3i8d)
