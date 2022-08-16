@@ -43,11 +43,11 @@
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Deployment & StatefulSets simply explained🚀](https://dev.to/iarchitsharma/kubernetes-deployment-statefulsets-simply-explained-23c3)
 - [Kubernetes Volume explained for Beginners](https://dev.to/iarchitsharma/kubernetes-volume-explained-for-beginners-3doj)
 - [Kubernetes Components Simplified for Beginners🚀](https://dev.to/iarchitsharma/kubernetes-components-simplified-for-beginners-19op)
 - [Top 10 Highest Paid Languages in 2022](https://dev.to/iarchitsharma/top-10-highest-paid-languages-in-2022-353m)
 - [Complete guide to kickstart your Open Source journey🚀](https://dev.to/iarchitsharma/complete-guide-to-kickstart-your-open-source-journey-2dm5)
-- [TypeScript vs JavaScript🤔](https://dev.to/iarchitsharma/typescript-vs-javascript-3i8d)
 <!-- BLOG-POST-LIST:END -->
 
 
