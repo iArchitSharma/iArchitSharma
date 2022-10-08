@@ -49,7 +49,7 @@
 - [Build and Package Manager Tools for Absolute Beginners📌](https://dev.to/iarchitsharma/build-and-package-manager-tools-for-absolute-beginners-588c)
 - [You need to learn AWS RIGHT NOW!! 🚀](https://dev.to/iarchitsharma/you-need-to-learn-aws-right-now-1i1n)
 - [Git for DevOps Engineer🚀](https://dev.to/iarchitsharma/git-for-devops-engineer-1nlo)
-- [Kubernetes Deployment & StatefulSets simply explained🚀](https://dev.to/iarchitsharma/kubernetes-deployment-statefulsets-simply-explained-23c3)
+- [Color Theory for Web Design Beginners](https://dev.to/iarchitsharma/color-theory-for-web-design-beginners-433h)
 <!-- BLOG-POST-LIST:END -->
 
 
