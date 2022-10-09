@@ -1,4 +1,4 @@
-<!--More improvments needed....-->
+<!--More improvments needed...-->
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Archit!](https://iarchitsharma.github.io/) 
 
 <a href="https://www.linkedin.com/in/iarchitsharma/">
