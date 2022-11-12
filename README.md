@@ -52,5 +52,6 @@
 - [Color Theory for Web Design Beginners](https://dev.to/iarchitsharma/color-theory-for-web-design-beginners-433h)
 <!-- BLOG-POST-LIST:END -->
 
+[![@iarchitsharma's Holopin board](https://holopin.me/iarchitsharma)](https://holopin.io/@iarchitsharma)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iarchitsharma.iarchitsharma)
