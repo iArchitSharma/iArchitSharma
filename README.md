@@ -18,7 +18,7 @@
 
 <h2> About Me 👨‍</h2>
  
- 💻 **Aspiring Software Developer** and **a final year student of Information Technology** 🎓. My passion for Computer Science brought me here. I am eager to learn new technologies and apply them to either develop something helpful or improve existing applications.
+ 💻 **Software Developer** and **final year Information Technology student**🎓. I enjoy building software, fixing things, and I am particularly interested in web development, Cloud and Automation.
  
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
