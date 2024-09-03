@@ -24,7 +24,7 @@
 
 -  🔭 I'm currently learning **Backend Web Development** 🙋‍♂️and improving my **Data Structure** and **Algorithm** skills👨‍💻.
   
--  🌱 I'm familiar with Docker, NodeJS, mySQL, Git, Linux⚙️.
+-  🌱 I'm familiar with Kubernetes, Docker, NodeJS, mySQL, Github Actions, Linux⚙️.
 
 -   👀 I’m interested in Open Source Projects and Technical Writing.
   
