@@ -45,11 +45,11 @@
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
-- [10 GitHub repositories to advance your career as a Developer](https://dev.to/iarchitsharma/10-as-a-developer-egn)
-- [5 Useful chrome extensions for Leetcode](https://dev.to/iarchitsharma/5-useful-chrome-extensions-for-leetcode-k3j)
-- [Build and Package Manager Tools for Absolute Beginners📌](https://dev.to/iarchitsharma/build-and-package-manager-tools-for-absolute-beginners-588c)
-- [You need to learn AWS RIGHT NOW!! 🚀](https://dev.to/iarchitsharma/you-need-to-learn-aws-right-now-1i1n)
-- [Git for DevOps Engineer🚀](https://dev.to/iarchitsharma/git-for-devops-engineer-1nlo)
+- [The best static site generators in 2024🚀🔥](https://dev.to/iarchitsharma/the-best-static-site-generators-in-2024-dc7)
+- [Top 10 Popular Terraform Interview Questions](https://dev.to/iarchitsharma/top-10-popular-terraform-interview-questions-4aeg)
+- [Top 10 Popular Kubernetes Interview Questions](https://dev.to/iarchitsharma/top-10-popular-kubernetes-interview-questions-3kfd)
+- [Securing My First Internship with Open Source](https://dev.to/iarchitsharma/securing-my-first-internship-with-open-source-15bn)
+- [Getting Started with GitHub Actions](https://dev.to/iarchitsharma/getting-started-with-github-actions-5b4i)
 
 <!-- BLOG-POST-LIST:END -->
 
