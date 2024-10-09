@@ -24,9 +24,9 @@
 
 -  🔭 I'm currently learning **Backend Web Development** 🙋‍♂️and improving my **Data Structure** and **Algorithm** skills👨‍💻.
   
--  🌱 I'm familiar with Kubernetes, Docker, NodeJS, mySQL, Github Actions, Linux⚙️.
+-  🌱 I'm familiar with Kubernetes, Docker, NodeJS, mySQL, postgres, Github Actions, Linux⚙️.
 
--   👀 I’m interested in Open Source Projects and Technical Writing.
+-  👀 I’m interested in Open Source Projects and Technical Writing.
   
 -  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iArchitSharma/) 
 
