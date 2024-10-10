@@ -21,8 +21,6 @@
  💻 **Software Developer** and **final year Information Technology student**🎓. I enjoy building software, fixing things, and I am particularly interested in web development, Cloud and Automation.
  
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
--  🔭 I'm currently learning **Backend Web Development** 🙋‍♂️and improving my **Data Structure** and **Algorithm** skills👨‍💻.
   
 -  🌱 I'm familiar with Kubernetes, Docker, NodeJS, mySQL, postgres, Github Actions, Linux⚙️.
 
