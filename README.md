@@ -18,7 +18,7 @@
 
 <h2> About Me 👨‍</h2>
  
- 💻 **Software Developer** and **final year Information Technology student**🎓. I enjoy building software, fixing things, and I am particularly interested in web development, Cloud and Automation.
+ 💻 **Software Developer/Network Engineer** and **final year Information Technology student**🎓. I enjoy building software, fixing things, and I am particularly interested in web development, Cloud and Automation.
  
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
