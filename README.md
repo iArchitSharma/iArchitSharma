@@ -16,7 +16,7 @@
 
 <br>
 
-<h2> About Me 👨‍</h2>
+<!-- <h2> About Me 👨‍</h2> -->
  
  **💻 Network Engineer | Cloud & Infrastructure Enthusiast | Akamai Trainee 🌐**
  
