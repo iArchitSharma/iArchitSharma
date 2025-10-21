@@ -18,13 +18,15 @@
 
 <h2> About Me 👨‍</h2>
  
- 💻 **Software Developer/Network Engineer** and **final year Information Technology student**🎓. I enjoy building software, fixing things, and I am particularly interested in web development, Cloud and Automation.
+ **💻 Network Engineer | Cloud & Infrastructure Enthusiast | Akamai Trainee 🌐**
  
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
--  🌱 I'm familiar with Kubernetes, Docker, NodeJS, mySQL, postgres, Github Actions, Linux⚙️.
+-  As a recent IT graduate and current trainee at Akamai, I’m building a strong foundation in network technologies, cloud systems, and performance engineering.
 
--  👀 I’m interested in Open Source Projects and Technical Writing.
+-  👀 Interests: Cloud Architecture, Network Security, CDN Optimization, and Technical Documentation.
+  
+-  🚀 I enjoy solving real-world connectivity challenges and exploring how networks power the modern internet.
   
 -  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iArchitSharma/) 
 
