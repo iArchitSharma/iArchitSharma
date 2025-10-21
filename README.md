@@ -1,7 +1,7 @@
 <!--More improvments needed...-->
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Archit!](https://iarchitsharma.github.io/) 
 
-<a href="https://www.linkedin.com/in/iarchitsharma/">
+<!-- <a href="https://www.linkedin.com/in/iarchitsharma/">
     <img align="left" alt="Archit Sharma | Linkedin" width="24px" src="https://iarchitsharma.github.io/iArchitSharma/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
 <a href="https://twitter.com/iarchitsharma">
@@ -12,7 +12,7 @@
   </a> &nbsp;&nbsp;
 <a href="https://leetcode.com/iArchitSharma/">
     <img align="left" alt="Archit Sharma | Leetcode" width="24px" src="https://iarchitsharma.github.io/iArchitSharma/Assets/leetcode.png" />
-  </a>
+  </a> -->
 
 <br>
 
